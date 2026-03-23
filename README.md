@@ -146,9 +146,7 @@ All SQL scripts are included in:
 
 ## 👩‍💻 Author  
 **Harshitha Salian**  
-Aspiring Data Analyst skilled in SQL, Excel, Power BI & Python  
-
-GitHub: https://github.com/Harshitha092  
-LinkedIn: https://www.linkedin.com/in/salianharshitha/
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
 
 ---
