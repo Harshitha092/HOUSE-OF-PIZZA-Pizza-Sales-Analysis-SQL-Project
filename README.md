@@ -5,8 +5,9 @@
 ---
 
 ## 📌 Project Overview  
-This project is a **guided SQL analysis case study**, where I solved all essential business questions and additionally added few SQL queries from my end.
-This project analyzes **48,620 order line items**, spanning **21,350 orders** over a full year, for a fictional pizza store — **House of Pizza**.  
+This project analyzes a full year of pizza sales data using MySQL, solving real business questions through advanced SQL techniques — with additional queries developed independently to extend the analysis beyond standard KPIs.
+
+It analyzes **48,620 order line items**, spanning **21,350 orders** over a full year, for a fictional pizza store — **House of Pizza**.  
 Using MySQL, I performed:
 
 - Data Exploration & Validation  
